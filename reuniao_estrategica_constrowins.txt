@@ -1,0 +1,37 @@
+
+Reunião de Acompanhamento de Projetos - ConstroWins
+Data: 25/03/2025
+Local: Sede administrativa
+Participantes: João Paulo, Mauro, Larissa, Rodrigo, Patrícia, Rafael
+
+RH:
+- Afastamentos continuam acima da média em duas frentes de obra.
+- Sugerido criar programa de apoio psicológico e incentivo a atividades físicas.
+- Análise de rotatividade crescente no setor administrativo.
+
+Compras:
+- Ruptura no fornecimento de aço e cimento por 3 dias impactou obra do Alphaville.
+- Rafael sugeriu contrato com fornecedor reserva com entrega programada.
+- Patrícia mencionou problemas no estoque digital: divergência entre sistema e realidade.
+- Proposta de auditoria de 48h em todas as obras com apoio de estagiários.
+
+Financeiro:
+- BNDES recusou proposta por inconsistência na documentação.
+- João Paulo sugeriu uso de linha BB Crédito Corporativo como alternativa.
+- Necessidade de simular leasing de 2 máquinas versus compra direta.
+- Aumento de gastos com manutenção corretiva em máquinas antigas.
+
+Engenharia e Obras:
+- Falta de supervisores em obras menores está gerando atrasos.
+- Sugestão de criar equipe volante para apoio emergencial entre obras.
+- Rodrigo pediu reforço de mestre de obras para projeto Casa Verde-Amarela.
+- Implantação de QR Code na entrada de cada obra para controle de ponto.
+
+TI:
+- Instabilidade nas reuniões online e queda de sinal nos tablets de campo.
+- Proposta: testar rede mesh nas obras com mais de 5 containers.
+- Desenvolvimento de aplicativo interno para checklists de vistoria.
+
+Encaminhamentos:
+- Cada área ficou de enviar plano de ação até sexta-feira (28/03).
+- Próxima reunião marcada para segunda-feira (31/03) às 09:00.

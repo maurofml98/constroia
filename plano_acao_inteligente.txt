@@ -1,0 +1,71 @@
+### Planos de Ação por Área:
+
+#### RH:
+- **Descrição:** Criar programa de apoio psicológico e incentivo a atividades físicas para reduzir afastamentos.
+- **Responsável sugerido:** Larissa (Diretora de Recursos Humanos)
+- **Prazo estimado:** 30/04/2025
+
+- **Descrição:** Realizar análise detalhada da rotatividade crescente no setor administrativo.
+- **Responsável sugerido:** Patrícia (Gerente de RH)
+- **Prazo estimado:** 15/04/2025
+
+#### Compras:
+- **Descrição:** Estabelecer contrato com fornecedor reserva para aço e cimento com entrega programada.
+- **Responsável sugerido:** Rafael (Gerente de Compras)
+- **Prazo estimado:** 10/04/2025
+
+- **Descrição:** Realizar auditoria de 48h em todas as obras para verificar estoque digital.
+- **Responsável sugerido:** Mauro (Analista de Compras)
+- **Prazo estimado:** 20/04/2025
+
+#### Financeiro:
+- **Descrição:** Simular leasing de 2 máquinas versus compra direta para redução de gastos.
+- **Responsável sugerido:** João Paulo (Diretor Financeiro)
+- **Prazo estimado:** 25/04/2025
+
+- **Descrição:** Investigar alternativas para reduzir gastos com manutenção corretiva em máquinas antigas.
+- **Responsável sugerido:** Patrícia (Gerente de Finanças)
+- **Prazo estimado:** 30/04/2025
+
+#### Engenharia e Obras:
+- **Descrição:** Criar equipe volante para apoio emergencial entre obras menores.
+- **Responsável sugerido:** Rodrigo (Gerente de Engenharia e Obras)
+- **Prazo estimado:** 15/04/2025
+
+- **Descrição:** Reforçar equipe de supervisores em obras menores para evitar atrasos.
+- **Responsável sugerido:** Rafael (Coordenador de Obras)
+- **Prazo estimado:** 30/04/2025
+
+#### TI:
+- **Descrição:** Testar rede mesh nas obras com mais de 5 containers para melhorar estabilidade de conexão.
+- **Responsável sugerido:** Mauro (Analista de TI)
+- **Prazo estimado:** 20/04/2025
+
+- **Descrição:** Desenvolver aplicativo interno para checklists de vistoria.
+- **Responsável sugerido:** Larissa (Diretora de TI)
+- **Prazo estimado:** 25/04/2025
+
+### Pendências Importantes:
+- Enviar plano de ação de cada área até sexta-feira (28/03).
+
+### Resumo da Reunião:
+Prezados,
+Durante a reunião de acompanhamento de projetos da ConstroWins, discutimos diversos pontos de melhoria em cada área. Destacamos a necessidade de ações para reduzir afastamentos, melhorar a gestão de compras, resolver questões financeiras, otimizar processos em engenharia e obras, e fortalecer a infraestrutura de TI. Cada área deve enviar seu plano de ação até sexta-feira (28/03). A próxima reunião foi agendada para segunda-feira (31/03) às 09:00.
+
+Atenciosamente,
+ConstroWins
+
+### Tabela de Acompanhamento:
+
+| Área            | Tarefa                                                      | Responsável             | Prazo      |
+|-----------------|-------------------------------------------------------------|-------------------------|------------|
+| RH              | Programa de apoio psicológico e incentivo a atividades físicas | Larissa (Diretora de RH) | 30/04/2025 |
+| RH              | Análise de rotatividade crescente no setor administrativo    | Patrícia (Gerente de RH)| 15/04/2025 |
+| Compras         | Contrato com fornecedor reserva para aço e cimento          | Rafael (Gerente de Compras)| 10/04/2025 |
+| Compras         | Auditoria de 48h em todas as obras para verificar estoque digital | Mauro (Analista de Compras) | 20/04/2025 |
+| Financeiro      | Simular leasing de 2 máquinas versus compra direta          | João Paulo (Diretor Financeiro) | 25/04/2025 |
+| Financeiro      | Investigar alternativas para redução de gastos com manutenção corretiva | Patrícia (Gerente de Finanças) | 30/04/2025 |
+| Engenharia e Obras     | Criar equipe volante para apoio emergencial entre obras menores | Rodrigo (Gerente de Engenharia e Obras) | 15/04/2025 |
+| Engenharia e Obras     | Reforçar equipe de supervisores em obras menores           | Rafael (Coordenador de Obras) | 30/04/2025 |
+| TI              | Testar rede mesh nas obras com mais de 5 containers        | Mauro (Analista de TI)  | 20/04/2025 |
+| TI              | Desenvolver aplicativo interno para checklists de vistoria | Larissa (Diretora de TI) | 25/04/2025 |
